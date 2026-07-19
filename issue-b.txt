@@ -1,0 +1,7 @@
+CA-16 Issue B - Fresh Start
+
+This session (Issue B) was started independently.
+It does NOT resume or continue Issue A.
+Issue A artifacts are not modified.
+
+CLAUDE Confirmed
