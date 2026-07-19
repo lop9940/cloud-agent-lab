@@ -1,0 +1,7 @@
+CA-25 DEPENDENCY CONSUMER
+source-issue: 53
+source-pr: 55
+source-merge-commit: ce9fee2795b7ab748c30fce82e39625f8c16c516
+consumer-base-commit: ce9fee2795b7ab748c30fce82e39625f8c16c516
+source-artifact-version: 1
+source-content-verified: true
