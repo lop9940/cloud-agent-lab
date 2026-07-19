@@ -1,0 +1,6 @@
+CA-13 Resume Instruction Best Practice checkpoint
+
+Steps completed:
+1. Created checkpoint.txt
+
+CLAUDE Confirmed
