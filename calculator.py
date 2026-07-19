@@ -1,4 +1,2 @@
 def add(a: int, b: int) -> int:
-    return a + b
-
-# CLAUDE Confirmed
+    return a - b
