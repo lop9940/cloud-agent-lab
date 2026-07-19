@@ -2,4 +2,3 @@ CA-25 DEPENDENCY SOURCE
 artifact-version: 1
 producer: CA-25A
 consumer-required: CA-25B
-CLAUDE Confirmed
